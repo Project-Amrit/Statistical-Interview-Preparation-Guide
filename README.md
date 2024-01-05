@@ -25,9 +25,6 @@
 - Ideal for self-paced learning 📖
 - Share with your network to level up together! 👥
 
-🔍 **#StatisticalInterviews #DataScience #InterviewPrep #Statistics101 #CareerDevelopment #LearnWithData**
 
-📥 **Download Here:** [Your Download Link]
-
-Ready to crush those interviews? Let's embark on this statistical journey together! 🚀📈 #DataDrivenSuccess #CareerGrowth #LearningTogether
+Ready to crush those interviews? Let's embark on this statistical journey together! 🚀📈 
 
